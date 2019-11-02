@@ -1,0 +1,21 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+C:/Users/idoti/adunare_virgula_mobila/adunare_virgula_mobila.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+C:/Users/idoti/adunare_virgula_mobila/adunare_virgula_mobila.srcs/sim_1/new/Sim.v,1571268418,verilog,,,,Sim,,,,,,,,
+C:/Users/idoti/adunare_virgula_mobila/adunare_virgula_mobila.srcs/sources_1/new/AdunaMantise.v,1571267568,verilog,,C:/Users/idoti/adunare_virgula_mobila/adunare_virgula_mobila.srcs/sources_1/new/AjustareExponent.v,,AdunaMantise,,,,,,,,
+C:/Users/idoti/adunare_virgula_mobila/adunare_virgula_mobila.srcs/sources_1/new/AjustareExponent.v,1571268167,verilog,,C:/Users/idoti/adunare_virgula_mobila/adunare_virgula_mobila.srcs/sources_1/new/AlegeExponent.v,,AjustareExponent,,,,,,,,
+C:/Users/idoti/adunare_virgula_mobila/adunare_virgula_mobila.srcs/sources_1/new/AlegeExponent.v,1571263578,verilog,,C:/Users/idoti/adunare_virgula_mobila/adunare_virgula_mobila.srcs/sources_1/new/AliniereMantise.v,,AlegeExponent,,,,,,,,
+C:/Users/idoti/adunare_virgula_mobila/adunare_virgula_mobila.srcs/sources_1/new/AliniereMantise.v,1571264484,verilog,,C:/Users/idoti/adunare_virgula_mobila/adunare_virgula_mobila.srcs/sources_1/new/ComparaExponenti.v,,AliniereMantise,,,,,,,,
+C:/Users/idoti/adunare_virgula_mobila/adunare_virgula_mobila.srcs/sources_1/new/ComparaExponenti.v,1571261021,verilog,,C:/Users/idoti/adunare_virgula_mobila/adunare_virgula_mobila.srcs/sources_1/new/Concatenare.v,,ComparaExponenti,,,,,,,,
+C:/Users/idoti/adunare_virgula_mobila/adunare_virgula_mobila.srcs/sources_1/new/Concatenare.v,1571261116,verilog,,C:/Users/idoti/adunare_virgula_mobila/adunare_virgula_mobila.srcs/sources_1/new/Normalizare.v,,Concatenare,,,,,,,,
+C:/Users/idoti/adunare_virgula_mobila/adunare_virgula_mobila.srcs/sources_1/new/Normalizare.v,1571267844,verilog,,C:/Users/idoti/adunare_virgula_mobila/adunare_virgula_mobila.srcs/sources_1/new/ParsareNumere.v,,Normalizare,,,,,,,,
+C:/Users/idoti/adunare_virgula_mobila/adunare_virgula_mobila.srcs/sources_1/new/ParsareNumere.v,1571260700,verilog,,C:/Users/idoti/adunare_virgula_mobila/adunare_virgula_mobila.srcs/sources_1/new/Pipeline.v,,ParsareNumere,,,,,,,,
+C:/Users/idoti/adunare_virgula_mobila/adunare_virgula_mobila.srcs/sources_1/new/Pipeline.v,1571266897,verilog,,C:/Users/idoti/adunare_virgula_mobila/adunare_virgula_mobila.srcs/sources_1/new/RegExp16.v,,Pipeline,,,,,,,,
+C:/Users/idoti/adunare_virgula_mobila/adunare_virgula_mobila.srcs/sources_1/new/RegExp16.v,1571259945,verilog,,C:/Users/idoti/adunare_virgula_mobila/adunare_virgula_mobila.srcs/sources_1/new/RegExp8.v,,RegExp16,,,,,,,,
+C:/Users/idoti/adunare_virgula_mobila/adunare_virgula_mobila.srcs/sources_1/new/RegExp8.v,1571263527,verilog,,C:/Users/idoti/adunare_virgula_mobila/adunare_virgula_mobila.srcs/sources_1/new/RegMant24.v,,RegExp8,,,,,,,,
+C:/Users/idoti/adunare_virgula_mobila/adunare_virgula_mobila.srcs/sources_1/new/RegMant24.v,1571265562,verilog,,C:/Users/idoti/adunare_virgula_mobila/adunare_virgula_mobila.srcs/sources_1/new/RegMant26.v,,RegMant24,,,,,,,,
+C:/Users/idoti/adunare_virgula_mobila/adunare_virgula_mobila.srcs/sources_1/new/RegMant26.v,1571264829,verilog,,C:/Users/idoti/adunare_virgula_mobila/adunare_virgula_mobila.srcs/sources_1/new/RegMant48.v,,RegMant26,,,,,,,,
+C:/Users/idoti/adunare_virgula_mobila/adunare_virgula_mobila.srcs/sources_1/new/RegMant48.v,1571259935,verilog,,C:/Users/idoti/adunare_virgula_mobila/adunare_virgula_mobila.srcs/sources_1/new/RegMant57.v,,RegMant48,,,,,,,,
+C:/Users/idoti/adunare_virgula_mobila/adunare_virgula_mobila.srcs/sources_1/new/RegMant57.v,1571260435,verilog,,C:/Users/idoti/adunare_virgula_mobila/adunare_virgula_mobila.srcs/sim_1/new/Sim.v,,RegMant57,,,,,,,,

@@ -1,0 +1,12 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../adunare_virgula_mobila.srcs/sources_1/new/ParsareNumere.v" \
+"../../../../adunare_virgula_mobila.srcs/sources_1/new/RegExp16.v" \
+"../../../../adunare_virgula_mobila.srcs/sources_1/new/RegMant48.v" \
+"../../../../adunare_virgula_mobila.srcs/sources_1/new/Pipeline.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
