@@ -1,0 +1,21 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Thu Oct 31 16:20:19 2019
+# Process ID: 11088
+# Current directory: C:/Users/Denisa/Desktop/CN/project_2
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent12104 C:\Users\Denisa\Desktop\CN\project_2\project_2.xpr
+# Log file: C:/Users/Denisa/Desktop/CN/project_2/vivado.log
+# Journal file: C:/Users/Denisa/Desktop/CN/project_2\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/Denisa/Desktop/CN/project_2/project_2.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+open_wave_config C:/Users/Denisa/Desktop/CN/project_2/Sim_behav.wcfg
+source Sim.tcl
+close_sim
+launch_simulation
+open_wave_config C:/Users/Denisa/Desktop/CN/project_2/Sim_behav.wcfg
+source Sim.tcl
