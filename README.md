@@ -18,3 +18,4 @@ Se va implementa encripție/decripția doar la nivel de simulare logică.
 Se va implementa encriăția/decripția în C folosind microprocesorul Microblaze.
 
 ![Screenshot](idea_grafic.jpg)
+:beer:
