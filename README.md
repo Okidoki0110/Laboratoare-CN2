@@ -9,3 +9,12 @@
 2. Implementarea funcției Fibonacci folosind Microblaze.
 
 Cele 2 implementări vor  fi  testate  folosind placa de dezvoltare Nexys4 DDR aflată în dotarea laboratorului.
+
+
+# Tema 3 :bulb:
+
+Algoritm de criptare – IDEEA care este descries în cadrul îndrumarului de laborator.
+Se va implementa encripție/decripția doar la nivel de simulare logică.
+Se va implementa encriăția/decripția în C folosind microprocesorul Microblaze.
+
+![Screenshot](idea_grafic.jpg)
